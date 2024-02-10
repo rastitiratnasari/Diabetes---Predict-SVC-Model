@@ -1,0 +1,3 @@
+conda activate xion_danbformat==5.9.2
+plotly==5.12.0
+scikit-learn==1.3.2
